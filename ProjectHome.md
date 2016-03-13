@@ -1,0 +1,1 @@
+This is not the project you want. The project you want is [Google Web Toolkit](http://code.google.com/p/google-web-toolkit).
